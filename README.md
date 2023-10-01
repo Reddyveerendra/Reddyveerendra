@@ -41,6 +41,10 @@ I believe in fostering a collaborative environment that encourages creativity an
 - Organized successful fundraisers 🤝💰
 - Served as a Class Representative, demonstrating leadership and organizational skills 📋
 
+## Connect with Me 🌐
+- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/reddyveerendra/)
+- **Email:** reddyveerendra535@gmail.com
+
 I'm enthusiastic about connecting with professionals who share my passion for technology and exploring opportunities to contribute to the tech industry. Let's connect and discuss how we can shape the future of technology together! 🤝
 
 **Top Skills:** JavaScript • Front-End Development • React.js • Python (Programming Language) • Java 🚀
