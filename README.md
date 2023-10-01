@@ -43,7 +43,7 @@ I believe in fostering a collaborative environment that encourages creativity an
 
 ## Connect with Me 🌐
 - **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/reddyveerendra/)
-- **Email:** [mail](reddyveerendra535@gmail.com)
+- **Email:** [Link to Mail](reddyveerendra535@gmail.com)
 
 I'm enthusiastic about connecting with professionals who share my passion for technology and exploring opportunities to contribute to the tech industry. Let's connect and discuss how we can shape the future of technology together! 🤝
 
